@@ -28,5 +28,4 @@ function WordCard({ word, definition, transcription }) {
     </div>
     );
 }
-
 export default CardWord;
